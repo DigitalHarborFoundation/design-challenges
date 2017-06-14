@@ -34,10 +34,20 @@ The challenge is split into several phases that span over two days. Here is the 
         - Present your sketch to your partner for feedback.
 3. Rapid prototyping
     - Objective:
+        - Create _at least one_ physical prototype of your design.
+        - Quickly prototype and iterating until deciding on 1 design to move forward with.
     - Steps:
+        - Using prototyping materials, create physical prototypes of the clip.
+        - This is a great way to test your initial measurements and check that the user's needs are addressed.
+        - Cycle through the prototyping/feedback/iteration process with your partner.
 4. Design in Tinkercad
     - Objective:
+        - Recreate your final prototype in Tinkercad.
+        - The design _will be printed_ so make sure to design with this in mind.
     - Steps:
+        - Work on creating a digital version of design in Tinkercad.
+        - Use the _ruler_ and other precision tools to ensure accuracy.
+        - Receive feedback as needed/wanted.
 5. Modify and print
     - Objective:
         - At end of session, should have exported a .stl file for printing.
